@@ -8,6 +8,9 @@ Description
 Informaçẽos sobre a legislatura dos atual dos senadores do Brasil
 
 
+.. image:: screen1.png
+
+
 Requiriments
 ------------
 
@@ -26,5 +29,5 @@ Usage
    TODO
 
 
-.. image:: screen1.png
+
 
